@@ -21,7 +21,7 @@
             android:id="@+id/row1"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_marginBottom="150dp"
+            android:layout_marginBottom="180dp"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:paddingVertical="@dimen/padding_rows_vertical">
@@ -58,7 +58,7 @@
             android:id="@+id/row5"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_marginBottom="150dp"
+            android:layout_marginBottom="180dp"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:paddingVertical="@dimen/padding_rows_vertical">
@@ -94,7 +94,7 @@
             android:id="@+id/row7"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_marginBottom="150dp"
+            android:layout_marginBottom="180dp"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:paddingVertical="@dimen/padding_rows_vertical">
@@ -201,7 +201,7 @@
     <androidx.appcompat.widget.LinearLayoutCompat
         android:id="@+id/car_container"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/row_height"
+        android:layout_height="75dp"
         android:layout_marginTop="650dp"
         android:layout_marginBottom="@dimen/margin_bottom_car_row"
         android:orientation="horizontal"
