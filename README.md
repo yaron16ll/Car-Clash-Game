@@ -16,5 +16,5 @@
 
 **7. Endless game (3 lives  after death)**
 
-![carscreen]([https://github.com/yaron16ll/CarClash1/assets/60570643/e68e4868-ff54-4e32-91d5-e96c4e862f41](https://ibb.co/tz5YXhV))
+![carscreen](https://www.imghippo.com/i/wWvnN1719246120.png)
 
