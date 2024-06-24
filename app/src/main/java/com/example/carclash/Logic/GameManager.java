@@ -1,6 +1,9 @@
 package com.example.carclash.Logic;
 
 
+import android.view.View;
+import android.widget.Toast;
+
 public class GameManager {
     private final String NONE = "none";
     private final String ROCK = "rock ";
@@ -8,7 +11,6 @@ public class GameManager {
     private String[][] rocks = new String[][]{
             {NONE, NONE, NONE},
             {NONE, NONE, NONE},
-
             {NONE, NONE, NONE}
     };
     private int lives;
@@ -81,6 +83,7 @@ public class GameManager {
         }
         return false;
     }
+
 
 
     //Setters/Getters
