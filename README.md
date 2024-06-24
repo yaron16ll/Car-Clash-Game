@@ -16,6 +16,6 @@
 
 **7. Endless game (3 lives  after death)**
 
-![carscreen](![carscreen](https://github.com/yaron16ll/Android_assignment_1/assets/60570643/b76d996a-5768-4bdd-b74a-e1fae7656801)
-)
+![carscreen](https://github.com/yaron16ll/Android_assignment_1/assets/60570643/4ebe5987-4725-4242-b769-539dfb3a20a5)
+
 
