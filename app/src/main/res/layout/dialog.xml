@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="200dp"
+    android:layout_height="wrap_content"
+
+     android:orientation="vertical"
+     android:gravity="center"
+     android:background="@drawable/circular_dialog_background"
+    tools:ignore="ExtraText">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:contentDescription="logo"
+          android:src="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/dialog_text"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+         android:hint="Please type name..."
+        android:inputType="textEmailAddress" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/dialog_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:backgroundTint="@color/white"
+        android:enabled="false"
+        app:cornerRadius="38dp"
+
+        android:text="OK"
+        android:textColor="@color/black"
+        app:strokeColor="@color/black"
+        app:strokeWidth="1dp" />
+
+</LinearLayout>
