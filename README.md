@@ -1,25 +1,23 @@
-# Car Clash Game
+# Icon
 
-**1. Three-lane road.**
+**1. Tilt right to move right.**
 
-**2. car that can move left to right.**
+**2. Tilt left to move left.**
 
-**3. Obstacles on the road.**
+**3. A wider five-lane  road.**
 
-**4. Driving at a constant speed on the road.**
+**4. Longer road.**
 
- **(obstacles come to you)**
+**5. Crash road.**
 
-**5. Crash notification (Toast message + vibration).**
+**5. Hearts on road.**
 
-**6. 3 lives.**
+**6. Odometer(Distance counter).**
 
-**7. Endless game (3 lives  after death)**
+**7.Menu with three options:**
+    **2 Button mode - slow and fast**
+    **1 Sensor mode**
 
-<<<<<<< HEAD
-![carscreen](https://github.com/yaron16ll/CarClash1/assets/60570643/e68e4868-ff54-4e32-91d5-e96c4e862f41)
-=======
-![carscreen](https://github.com/yaron16ll/Android_assignment_1/assets/60570643/4ebe5987-4725-4242-b769-539dfb3a20a5)
+ ![carscreen](https://github.com/yaron16ll/Android_assignment_1/assets/60570643/4ebe5987-4725-4242-b769-539dfb3a20a5)
 
->>>>>>> origin/master
-
+ 
