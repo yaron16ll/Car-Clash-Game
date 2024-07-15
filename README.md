@@ -17,8 +17,8 @@
 **8. Odometer(Distance counter).**
 
 **9. Menu with three options:**\
-   **2 Button mode - slow and fast**\
-    **1 Sensor mode**
+       **2 Button mode - slow and fast**\
+        **1 Sensor mode**
     
 
 ![pic](https://github.com/user-attachments/assets/e9f66260-0b26-4107-9f40-95663a9b314f)
