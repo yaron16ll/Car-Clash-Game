@@ -1,23 +1,25 @@
-# Icon
+# Car Clash
 
 **1. Tilt right to move right.**
 
-**2. Tilt left to move left.**
+**2. Tilt right to move right.**
 
-**3. A wider five-lane  road.**
+**3. Tilt left to move left.**
 
-**4. Longer road.**
+**4. A wider five-lane  road.**
 
-**5. Crash road.**
+**5. Longer road.**
 
-**5. Hearts on road.**
+**6. Crash road.**
 
-**6. Odometer(Distance counter).**
+**7. Hearts on the road.**
 
-**7.Menu with three options:**
+**8. Odometer(Distance counter).**
+
+**9.Menu with three options:**
     **2 Button mode - slow and fast**
     **1 Sensor mode**
 
- ![carscreen](https://github.com/yaron16ll/Android_assignment_1/assets/60570643/4ebe5987-4725-4242-b769-539dfb3a20a5)
+![pic](https://github.com/user-attachments/assets/e9f66260-0b26-4107-9f40-95663a9b314f)
 
  
