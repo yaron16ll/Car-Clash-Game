@@ -31,10 +31,16 @@ android {
 dependencies {
 
     implementation(libs.appcompat)
-    implementation(libs.material)
+    implementation (libs.material.v140) // Or the latest version
     implementation(libs.activity)
     implementation(libs.constraintlayout)
     implementation(libs.work.runtime)
+    implementation(libs.firebase.crashlytics.buildtools)
+    implementation (libs.gson)
+    implementation (libs.play.services.maps)
+    implementation (libs.material.v160alpha03)
+    implementation(libs.play.services.location)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)

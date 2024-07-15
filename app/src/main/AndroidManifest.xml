@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
+    package="com.example.carclash">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.VIBRATE" />
+
     <application
         android:allowBackup="true"
-        android:dataExtractionRules="@xml/data_extraction_rules"
-        android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
-         android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/road_round"
+        android:label="Car Clash"
         android:supportsRtl="true"
         android:theme="@style/Theme.CarClash"
-        tools:targetApi="31">
+
+        > <!-- Reference to the defined theme -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyChrb_nP4O577tiTW4obU-d7-jIwFSU66E"/>
+
+
         <activity
-            android:name=".Game"
+            android:name=".activities.Menu"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
 
+        <activity
+            android:name=".activities.Record"
+            android:exported="true">
+        </activity>
+
+        <activity
+            android:name=".activities.Game"
+            android:exported="true"
+            android:screenOrientation="portrait">
+        </activity>
+
+
+        <!-- Add other activities here as needed -->
+
+    </application>
 </manifest>
