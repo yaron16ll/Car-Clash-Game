@@ -17,7 +17,7 @@
         > <!-- Reference to the defined theme -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyChrb_nP4O577tiTW4obU-d7-jIwFSU66E"/>
+            android:value="Key_api"/>
 
 
         <activity
