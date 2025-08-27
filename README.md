@@ -6,7 +6,7 @@
 
 ## Menu Screen
 a menu screen to choose the control mode and a link to the leaderboard
-<img width="313" height="737" alt="Image" src="https://github.com/user-attachments/assets/4cf5a537-171b-4814-8548-14874b9d7dcf" />
+<img width="363" height="767" alt="Image" src="https://github.com/user-attachments/assets/4cf5a537-171b-4814-8548-14874b9d7dcf" />
 
 ## Game Screen with On-Screen Buttons
 a game screen with on-screen buttons (slow/fast)
