@@ -15,7 +15,8 @@ a game screen with on-screen buttons(slow/fast)
 ![צילום מסך 2025-06-04 203204](https://github.com/user-attachments/assets/55e0a96a-486a-4270-b86f-34675245569b)
 
 ## Leaderboard 
-a leaderboard screen split into two fragments: a local Top-10 table and a map of record locations that updates when a score is selected
+a leaderboard screen split into two fragments: a local Top-10 table and
+a map of record locations that updates when a score is selected
 ![צילום מסך 2025-06-04 203309](https://github.com/user-attachments/assets/ce347c42-a0f1-45f4-8949-b35fee18bbf8)
 ## Game Screen with tilt sensors
 a game screen with tilt sensors(left/right)
@@ -26,6 +27,7 @@ a game screen with tilt sensors(left/right)
 ### Demo Video
 
 [Watch Video](https://drive.google.com/file/d/1rOJno1F1zx82pNas39B2pWe6_3FXKLFP/view?usp=drive_link)
+
 
 
 
