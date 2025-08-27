@@ -17,7 +17,7 @@ a game screen with on-screen buttons (slow/fast)
 ## Leaderboard 
 a leaderboard screen split into two fragments: a local Top-10 table and a map of record locations
 
-<img width="363" height="776" alt="Image" src="https://github.com/user-attachments/assets/4cf5a537-171b-4814-8548-14874b9d7dcf" />
+<img width="367" height="778" alt="Image" src="https://github.com/user-attachments/assets/84f1b59f-003d-448f-a085-7333131ad638" />
 
 ## Game Screen with tilt sensors
 a game screen with tilt sensors (left/right)
@@ -26,6 +26,7 @@ a game screen with tilt sensors (left/right)
 
 ## Demo Video
 [Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
