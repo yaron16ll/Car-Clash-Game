@@ -20,8 +20,11 @@ a leaderboard screen split into two fragments: a local Top-10 table and a map of
 a game screen with tilt sensors (left/right)
 
 <img width="363" height="767" alt="Image" src="https://github.com/user-attachments/assets/ad672537-42f9-4c3e-93dc-784e5543dca0" />
+
+
 ### Demo Video
 [Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
