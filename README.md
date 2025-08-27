@@ -23,9 +23,9 @@ a game screen with tilt sensors (left/right)
 
 
 ### Demo Video
+[Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
 
-[[Watch Video](https://drive.google.com/file/d/1rOJno1F1zx82pNas39B2pWe6_3FXKLFP/view?usp=drive_link)
-](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
