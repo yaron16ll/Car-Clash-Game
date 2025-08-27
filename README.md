@@ -10,7 +10,8 @@ a menu screen to choose the control mode and a link to the leaderboard
 
 ## Game Screen with On-Screen Buttons
 a game screen with on-screen buttons (slow/fast)
-<img width="363" height="767" alt="Image" src="https://github.com/user-attachments/assets/ad672537-42f9-4c3e-93dc-784e5543dca0" />
+<img width="372" height="776" alt="Image" src="https://github.com/user-attachments/assets/dc8989f1-416e-497f-a953-c6d9a99defae" />
+
 
 ## Leaderboard 
 a leaderboard screen split into two fragments: a local Top-10 table and a map of record locations
@@ -18,10 +19,10 @@ a leaderboard screen split into two fragments: a local Top-10 table and a map of
 ## Game Screen with tilt sensors
 a game screen with tilt sensors (left/right)
 
-<img width="372" height="776" alt="Image" src="https://github.com/user-attachments/assets/dc8989f1-416e-497f-a953-c6d9a99defae" />
-
+<img width="363" height="767" alt="Image" src="https://github.com/user-attachments/assets/ad672537-42f9-4c3e-93dc-784e5543dca0" />
 ### Demo Video
 [Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
