@@ -7,7 +7,7 @@
 ## Menu Screen
 a menu screen to choose the control mode and a link to the leaderboard
 <img width="363" height="776" alt="Image" src="https://github.com/user-attachments/assets/4cf5a537-171b-4814-8548-14874b9d7dcf" />
-## Game Screen with On-Screen Buttons
+## Game Screen with  Buttons
 a game screen with on-screen buttons (slow/fast)
 <img width="363" height="776" alt="Image" src="https://github.com/user-attachments/assets/dc8989f1-416e-497f-a953-c6d9a99defae" />
 ## Leaderboard 
@@ -21,6 +21,7 @@ a game screen with tilt sensors (left/right)
 
 ## Demo Video
 [Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
