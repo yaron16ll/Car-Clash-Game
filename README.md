@@ -10,7 +10,7 @@ a menu screen to choose the control mode and a link to the leaderboard
 
 ## Game Screen with On-Screen Buttons
 a game screen with on-screen buttons (slow/fast)
-![צילום מסך 2025-06-04 202908](https://github.com/user-attachments/assets/11e1d01b-5278-49a4-84c5-540bbe0f8482)
+<img width="363" height="767" alt="Image" src="https://github.com/user-attachments/assets/ad672537-42f9-4c3e-93dc-784e5543dca0" />
 
 ## Leaderboard 
 a leaderboard screen split into two fragments: a local Top-10 table and a map of record locations
@@ -18,11 +18,11 @@ a leaderboard screen split into two fragments: a local Top-10 table and a map of
 ## Game Screen with tilt sensors
 a game screen with tilt sensors (left/right)
 
-![צילום מסך 2025-06-04 203533](https://github.com/user-attachments/assets/da80c395-546a-48f5-aff8-78a79af00ec3)
-
+<img width="372" height="776" alt="Image" src="https://github.com/user-attachments/assets/dc8989f1-416e-497f-a953-c6d9a99defae" />
 
 ### Demo Video
 [Watch Video](https://drive.google.com/file/d/1rGNpggwnppfMD39CPU_amjSGHTqY8JfJ/view?usp=drive_link)
+
 
 
 
