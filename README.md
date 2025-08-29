@@ -2,6 +2,8 @@
 
 **Car Clash** is a fast-paced obstacle runner on a **five-lane** road. The player starts with **3 hearts (lives)**; hitting an obstacle removes a heart and plays a **crash sound**, and the run ends when the player has zero lives. Progress is tracked with an **Odometer (distance counter)**. Controls support **tilt sensors** (left/right) or **on-screen buttons** (slow/fast). The game includes a **menu screen** to choose the control mode and a link to the **leaderboard**, plus a **leaderboard screen** split into two fragments: a **local Top-10** table and a **map of record locations** that updates when a score is selected.
 
+<img width="313" height="289" alt="Image" src="https://github.com/user-attachments/assets/873af27e-bbb0-40fb-8e35-7ff746c4e05c" />
+
 <h1><u>Application Screens</u></h1>
 
 ## Menu Screen
@@ -26,6 +28,7 @@ a game screen with tilt sensors (left/right)
 
 ## Demo Video
 https://github.com/user-attachments/assets/e71afee8-ec4b-4bcf-a106-c222f893df25
+
 
 
 
